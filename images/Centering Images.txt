@@ -1,0 +1,8 @@
+/* Use this class on the PARENT of the <img> you are trying to center; remember that the PARENT tells the CHILD what to do! */
+/* NOTE: Centering images in DIVs only works when the display property is "flex"! */
+
+.center-img {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

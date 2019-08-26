@@ -1,0 +1,51 @@
+body {
+	width: 100%;
+	height: 100%;
+	display: block;
+	margin: 0;
+}
+
+.green {
+	background-color: #008D24;
+}
+
+.light_blue {
+	background-color: #0B69C0;
+}
+
+.purple {
+	background-color: #3A246D;
+}
+
+.red {
+	background-color: #CA1B22;
+}
+
+.orange {
+	background-color: #EA6626;
+	height: 150px;
+	width: 150px;
+}
+
+.box1 {
+	height: 100%;
+	width: 50%;
+}
+
+.box2 {
+	height: 100%;
+	width: calc(100%/3);
+}
+
+
+.row {
+	height: 50%;
+	width: 100%;
+	display: flex;
+}
+
+.center-img {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
