@@ -5,26 +5,24 @@ body {
 	margin: 0;
 }
 
-.green {
-	background-color: #008D24;
+.maroon {
+	background-color: #862633;
 }
 
-.light_blue {
-	background-color: #0B69C0;
+.teal {
+	background-color: #006D75;
 }
 
 .purple {
-	background-color: #3A246D;
+	background-color: #552583;
 }
 
 .red {
-	background-color: #CA1B22;
+	background-color: #aa0000;
 }
 
 .orange {
-	background-color: #EA6626;
-	height: 150px;
-	width: 150px;
+	background-color: #FD5A1E;
 }
 
 .box1 {
