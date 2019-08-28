@@ -5,8 +5,8 @@ body {
 	margin: 0;
 }
 
-.maroon {
-	background-color: #862633;
+.blue {
+	background-color: #003263;
 }
 
 .teal {
@@ -46,4 +46,13 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+.vanish {
+  opacity: 1;
+  -webkit-transition: opacity 1s linear;
+}
+
+.vanish:hover {
+  opacity: 0;
 }
