@@ -54,7 +54,7 @@ body {
 }
 
 .vanish:hover {
-  opacity: 0.1;
+  opacity: 0.01;
 }
 
 .zoom {
